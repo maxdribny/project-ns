@@ -56,12 +56,6 @@ res://
 `-- OtherStuff/              # For any other category as needed
 ```
 
-markdown
-Copy
-Edit
-
----
-
 ## Folder Explanations
 
 - **Assets/**  
@@ -104,14 +98,15 @@ Edit
 ## Getting Started
 
 1. **Clone the Repository**  
-   ```bash
+```bash
    git clone https://github.com/YourUsername/project-ns.git
-Open in Godot
+```
 
-Launch Godot 4.
-Click Import (or Scan) in the Project Manager and select the project.godot file in the cloned folder.
-Press Open to load the project.
-Run the Game
+2. Open in Godot
+
+3. Click Import (or Scan) in the Project Manager and select the project.godot file in the cloned folder.
+4. Press Open to load the project.
+5. Run the Game
 
 Once inside the editor, press <kbd>F5</kbd> to run the current scene or use the Play button at the top-right.
 2D-Only Mode (Optional)
