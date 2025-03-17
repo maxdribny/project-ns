@@ -1,0 +1,16 @@
+# Godot 4
+.import/
+.godot/
+export/
+# If you are not using the built-in version of C#, 
+# these next lines can apply:
+mono/
+.cache/
+*.csproj
+*.sln
+*.mono/
+# OS-specific
+.DS_Store
+Thumbs.db
+# Godot backup files
+*.tmp
